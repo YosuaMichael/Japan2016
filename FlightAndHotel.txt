@@ -1,0 +1,7 @@
+Flight:
+Depart: From Singapore 29 January 2016 23.55  -> Narita, Tokyo, Japan 30 January 2016 08.00
+Return: From Narita, Tokyo, Japan 14 February 2016 11.10 -> Singapore 14 February 2016 18.00
+
+
+Hotel:
+Niseko Prince hotel Hirafute, Hokkaido: 04 February 2016 - 05 February 2016 (Checkin at 15.00, Checkout before 11.00)
